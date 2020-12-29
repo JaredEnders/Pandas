@@ -1,6 +1,6 @@
 # Pandas
 # Pandas (Case Assignment)
-- Generated a report that breaks down a fictional game's purchasing data into meaningful insights.
+Generated a report that breaks down a fictional game's purchasing data into meaningful insights.
 
 - Player Count
     - Total Number of Players
